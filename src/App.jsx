@@ -7,7 +7,7 @@ function App() {
       <HeaderMain />
 
 
-      1
+      
     </div>
   )
 }

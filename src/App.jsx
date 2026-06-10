@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <HeaderMain />
-      add somethink
     </div>
   )
 }
